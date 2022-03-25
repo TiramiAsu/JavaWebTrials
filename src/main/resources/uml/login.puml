@@ -1,0 +1,49 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+==CASE 1: 從 A頁 進入\n(/servlet/cookie/login)==
+user -> servlet: request\n進入 "A頁"
+note right: 必須登入
+alt 驗證是否登入
+else cookie 檢查有登入
+    servlet -> A頁: **轉發** 至 "A頁"
+    activate A頁
+    user <- A頁: response 顯示
+    deactivate A頁
+else cookie 檢查無登入
+    servlet -> 登入頁: **重定向** 至 "登入頁"
+    activate 登入頁
+    user <- 登入頁: 訊息 msg: "請先登入"(需使用 cookie)\nresponse 顯示
+    deactivate 登入頁
+end
+||50||
+==CASE 2: 從 登入頁 進入\n(/servlet/cookie)==
+user -> servlet: request\n進入 "登入頁"
+
+alt 驗證是否登入
+else cookie 檢查有登入
+    servlet -> A頁: **重定向** 至 "A頁"
+    activate A頁
+    user <- A頁: response 顯示
+    deactivate A頁
+else cookie 檢查無登入
+    servlet -> 登入頁: **轉發** 至 "登入頁"
+    activate 登入頁
+    user <- 登入頁: response 顯示
+    deactivate 登入頁
+end
+
+user -> servlet: 輸入帳號密碼
+alt request parameter 檢查驗證是否可登入
+else 可登入
+    servlet -> A頁: **重定向** 至 "A頁"
+    activate A頁
+    user <- A頁: cookie 寫入登入帳密\nresponse 顯示
+    deactivate A頁
+else 不可登入
+    servlet -> 登入頁: **轉發** 至 "登入頁"
+    activate 登入頁
+    user <- 登入頁: 設定 msg: "登入帳號或密碼錯誤"\nresponse 顯示
+    deactivate 登入頁
+end
+@enduml

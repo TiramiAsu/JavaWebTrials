@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1082px" preserveAspectRatio="none" style="width:379px;height:1082px;background:#FFFFFF;" version="1.1" viewBox="0 0 379 1082" width="379px" zoomAndPan="magnify"><defs><filter height="300%" id="f6ipezkipa0vs" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="32.5161" style="stroke:#A80036;stroke-width:1.0;" width="10" x="257" y="240.3721"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="32.5161" style="stroke:#A80036;stroke-width:1.0;" width="10" x="257" y="625.5356"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="51.0322" style="stroke:#A80036;stroke-width:1.0;" width="10" x="257" y="858.6348"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="51.0322" style="stroke:#A80036;stroke-width:1.0;" width="10" x="317.5" y="323.0718"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="32.5161" style="stroke:#A80036;stroke-width:1.0;" width="10" x="317.5" y="708.2354"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="51.0322" style="stroke:#A80036;stroke-width:1.0;" width="10" x="317.5" y="959.8506"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="205.0991" style="stroke:#000000;stroke-width:2.0;" width="352.5" x="10" y="177.0049"/><rect fill="#FFFFFF" height="82.6997" style="stroke:none;stroke-width:1.0;" width="352.5" x="10" y="198.1885"/><rect fill="#FFFFFF" height="101.2158" style="stroke:none;stroke-width:1.0;" width="352.5" x="10" y="280.8882"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="186.583" style="stroke:#000000;stroke-width:2.0;" width="352.5" x="10" y="562.1685"/><rect fill="#FFFFFF" height="82.6997" style="stroke:none;stroke-width:1.0;" width="352.5" x="10" y="583.3521"/><rect fill="#FFFFFF" height="82.6997" style="stroke:none;stroke-width:1.0;" width="352.5" x="10" y="666.0518"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="223.6152" style="stroke:#000000;stroke-width:2.0;" width="352.5" x="10" y="795.2676"/><rect fill="#FFFFFF" height="101.2158" style="stroke:none;stroke-width:1.0;" width="352.5" x="10" y="816.4512"/><rect fill="#FFFFFF" height="101.2158" style="stroke:none;stroke-width:1.0;" width="352.5" x="10" y="917.667"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="43" x2="43" y1="43.9404" y2="1035.8828"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="146" x2="146" y1="43.9404" y2="1035.8828"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="261.5" x2="261.5" y1="43.9404" y2="1035.8828"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="322.5" x2="322.5" y1="43.9404" y2="1035.8828"/><rect fill="#FEFECE" filter="url(#f6ipezkipa0vs)" height="33.9404" style="stroke:#A80036;stroke-width:1.5;" width="42" x="20" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="27" y="28.8643">user</text><rect fill="#FEFECE" filter="url(#f6ipezkipa0vs)" height="33.9404" style="stroke:#A80036;stroke-width:1.5;" width="42" x="20" y="1034.8828"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="27" y="1058.7471">user</text><rect fill="#FEFECE" filter="url(#f6ipezkipa0vs)" height="33.9404" style="stroke:#A80036;stroke-width:1.5;" width="56" x="116" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="123" y="28.8643">servlet</text><rect fill="#FEFECE" filter="url(#f6ipezkipa0vs)" height="33.9404" style="stroke:#A80036;stroke-width:1.5;" width="56" x="116" y="1034.8828"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="123" y="1058.7471">servlet</text><rect fill="#FEFECE" filter="url(#f6ipezkipa0vs)" height="33.9404" style="stroke:#A80036;stroke-width:1.5;" width="37" x="241.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="23" x="248.5" y="28.8643">A頁</text><rect fill="#FEFECE" filter="url(#f6ipezkipa0vs)" height="33.9404" style="stroke:#A80036;stroke-width:1.5;" width="37" x="241.5" y="1034.8828"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="23" x="248.5" y="1058.7471">A頁</text><rect fill="#FEFECE" filter="url(#f6ipezkipa0vs)" height="33.9404" style="stroke:#A80036;stroke-width:1.5;" width="56" x="292.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="299.5" y="28.8643">登入頁</text><rect fill="#FEFECE" filter="url(#f6ipezkipa0vs)" height="33.9404" style="stroke:#A80036;stroke-width:1.5;" width="56" x="292.5" y="1034.8828"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="299.5" y="1058.7471">登入頁</text><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="32.5161" style="stroke:#A80036;stroke-width:1.0;" width="10" x="257" y="240.3721"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="32.5161" style="stroke:#A80036;stroke-width:1.0;" width="10" x="257" y="625.5356"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="51.0322" style="stroke:#A80036;stroke-width:1.0;" width="10" x="257" y="858.6348"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="51.0322" style="stroke:#A80036;stroke-width:1.0;" width="10" x="317.5" y="323.0718"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="32.5161" style="stroke:#A80036;stroke-width:1.0;" width="10" x="317.5" y="708.2354"/><rect fill="#FFFFFF" filter="url(#f6ipezkipa0vs)" height="51.0322" style="stroke:#A80036;stroke-width:1.0;" width="10" x="317.5" y="959.8506"/><rect fill="#EEEEEE" filter="url(#f6ipezkipa0vs)" height="3" style="stroke:#EEEEEE;stroke-width:1.0;" width="372.5" x="0" y="85.4565"/><line style="stroke:#000000;stroke-width:1.0;" x1="0" x2="372.5" y1="85.4565" y2="85.4565"/><line style="stroke:#000000;stroke-width:1.0;" x1="0" x2="372.5" y1="88.4565" y2="88.4565"/><rect fill="#EEEEEE" filter="url(#f6ipezkipa0vs)" height="45.0322" style="stroke:#000000;stroke-width:2.0;" width="150" x="111.25" y="63.9404"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="123" x="123.75" y="83.6001">CASE 1: 從 A頁 進入</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="136" x="117.25" y="102.1162">(/servlet/cookie/login)</text><polygon fill="#A80036" points="134,158.0049,144,162.0049,134,166.0049,138,162.0049" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="43" x2="140" y1="162.0049" y2="162.0049"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="50" y="138.6323">request</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="62" x="50" y="157.1484">進入 "A頁"</text><path d="M151,128.2307 L151,156.2307 L224,156.2307 L224,138.2307 L214,128.2307 L151,128.2307 " fill="#FBFB77" filter="url(#f6ipezkipa0vs)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M214,128.2307 L214,138.2307 L224,138.2307 L214,128.2307 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="52" x="157" y="148.8904">必須登入</text><path d="M10,177.0049 L71,177.0049 L71,187.0049 L61,197.0049 L10,197.0049 L10,177.0049 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="205.0991" style="stroke:#000000;stroke-width:2.0;" width="352.5" x="10" y="177.0049"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="16" x="25" y="193.6646">alt</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="74" x="86" y="192.2554">[驗證是否登入]</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="10" x2="362.5" y1="199.1885" y2="199.1885"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="103" x="15" y="212.439">[cookie 檢查有登入]</text><polygon fill="#A80036" points="245,236.3721,255,240.3721,245,244.3721,249,240.3721" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="146" x2="251" y1="240.3721" y2="240.3721"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="26" x="153" y="235.5156">轉發</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="183" y="235.5156">至 "A頁"</text><polygon fill="#A80036" points="54,268.8882,44,272.8882,54,276.8882,50,272.8882" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="48" x2="261" y1="272.8882" y2="272.8882"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="83" x="60" y="268.0317">response 顯示</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="10" x2="362.5" y1="281.8882" y2="281.8882"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="103" x="15" y="295.1387">[cookie 檢查無登入]</text><polygon fill="#A80036" points="305.5,319.0718,315.5,323.0718,305.5,327.0718,309.5,323.0718" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="146" x2="311.5" y1="323.0718" y2="323.0718"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="39" x="153" y="318.2153">重定向</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="66" x="196" y="318.2153">至 "登入頁"</text><polygon fill="#A80036" points="54,370.104,44,374.104,54,378.104,50,374.104" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="48" x2="321.5" y1="374.104" y2="374.104"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="214" x="60" y="350.7314">訊息 msg: "請先登入"(需使用 cookie)</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="83" x="60" y="369.2476">response 顯示</text><rect fill="#EEEEEE" filter="url(#f6ipezkipa0vs)" height="3" style="stroke:#EEEEEE;stroke-width:1.0;" width="372.5" x="0" y="470.6201"/><line style="stroke:#000000;stroke-width:1.0;" x1="0" x2="372.5" y1="470.6201" y2="470.6201"/><line style="stroke:#000000;stroke-width:1.0;" x1="0" x2="372.5" y1="473.6201" y2="473.6201"/><rect fill="#EEEEEE" filter="url(#f6ipezkipa0vs)" height="45.0322" style="stroke:#000000;stroke-width:2.0;" width="154" x="109.25" y="449.104"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="140" x="115.25" y="468.7637">CASE 2: 從 登入頁 進入</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="100" x="135.25" y="487.2798">(/servlet/cookie)</text><polygon fill="#A80036" points="134,543.1685,144,547.1685,134,551.1685,138,547.1685" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="43" x2="140" y1="547.1685" y2="547.1685"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="50" y="523.7959">request</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="79" x="50" y="542.312">進入 "登入頁"</text><path d="M10,562.1685 L71,562.1685 L71,572.1685 L61,582.1685 L10,582.1685 L10,562.1685 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="186.583" style="stroke:#000000;stroke-width:2.0;" width="352.5" x="10" y="562.1685"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="16" x="25" y="578.8281">alt</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="74" x="86" y="577.4189">[驗證是否登入]</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="10" x2="362.5" y1="584.3521" y2="584.3521"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="103" x="15" y="597.6025">[cookie 檢查有登入]</text><polygon fill="#A80036" points="245,621.5356,255,625.5356,245,629.5356,249,625.5356" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="146" x2="251" y1="625.5356" y2="625.5356"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="39" x="153" y="620.6792">重定向</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="196" y="620.6792">至 "A頁"</text><polygon fill="#A80036" points="54,654.0518,44,658.0518,54,662.0518,50,658.0518" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="48" x2="261" y1="658.0518" y2="658.0518"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="83" x="60" y="653.1953">response 顯示</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="10" x2="362.5" y1="667.0518" y2="667.0518"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="103" x="15" y="680.3022">[cookie 檢查無登入]</text><polygon fill="#A80036" points="305.5,704.2354,315.5,708.2354,305.5,712.2354,309.5,708.2354" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="146" x2="311.5" y1="708.2354" y2="708.2354"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="26" x="153" y="703.3789">轉發</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="66" x="183" y="703.3789">至 "登入頁"</text><polygon fill="#A80036" points="54,736.7515,44,740.7515,54,744.7515,50,740.7515" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="48" x2="321.5" y1="740.7515" y2="740.7515"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="83" x="60" y="735.895">response 顯示</text><polygon fill="#A80036" points="134,776.2676,144,780.2676,134,784.2676,138,780.2676" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="43" x2="140" y1="780.2676" y2="780.2676"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="78" x="50" y="775.4111">輸入帳號密碼</text><path d="M10,795.2676 L71,795.2676 L71,805.2676 L61,815.2676 L10,815.2676 L10,795.2676 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="223.6152" style="stroke:#000000;stroke-width:2.0;" width="352.5" x="10" y="795.2676"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="16" x="25" y="811.9272">alt</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="215" x="86" y="810.5181">[request parameter 檢查驗證是否可登入]</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="10" x2="362.5" y1="817.4512" y2="817.4512"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="41" x="15" y="830.7017">[可登入]</text><polygon fill="#A80036" points="245,854.6348,255,858.6348,245,862.6348,249,858.6348" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="146" x2="251" y1="858.6348" y2="858.6348"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="39" x="153" y="853.7783">重定向</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="196" y="853.7783">至 "A頁"</text><polygon fill="#A80036" points="54,905.667,44,909.667,54,913.667,50,909.667" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="48" x2="261" y1="909.667" y2="909.667"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="120" x="60" y="886.2944">cookie 寫入登入帳密</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="83" x="60" y="904.8105">response 顯示</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="10" x2="362.5" y1="918.667" y2="918.667"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="52" x="15" y="931.9175">[不可登入]</text><polygon fill="#A80036" points="305.5,955.8506,315.5,959.8506,305.5,963.8506,309.5,959.8506" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="146" x2="311.5" y1="959.8506" y2="959.8506"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="26" x="153" y="954.9941">轉發</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="66" x="183" y="954.9941">至 "登入頁"</text><polygon fill="#A80036" points="54,1006.8828,44,1010.8828,54,1014.8828,50,1010.8828" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="48" x2="321.5" y1="1010.8828" y2="1010.8828"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="190" x="60" y="987.5103">設定 msg: "登入帳號或密碼錯誤"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="83" x="60" y="1006.0264">response 顯示</text><!--MD5=[42b14b94ff343116c0073a379dd0aa6b]
+@startuml
+'https://plantuml.com/sequence-diagram
+
+==CASE 1: 從 A頁 進入\n(/servlet/cookie/login)==
+user -> servlet: request\n進入 "A頁"
+note right: 必須登入
+alt 驗證是否登入
+else cookie 檢查有登入
+    servlet -> A頁: **轉發** 至 "A頁"
+    activate A頁
+    user <- A頁: response 顯示
+    deactivate A頁
+else cookie 檢查無登入
+    servlet -> 登入頁: **重定向** 至 "登入頁"
+    activate 登入頁
+    user <- 登入頁: 訊息 msg: "請先登入"(需使用 cookie)\nresponse 顯示
+    deactivate 登入頁
+end
+||50||
+==CASE 2: 從 登入頁 進入\n(/servlet/cookie)==
+user -> servlet: request\n進入 "登入頁"
+
+alt 驗證是否登入
+else cookie 檢查有登入
+    servlet -> A頁: **重定向** 至 "A頁"
+    activate A頁
+    user <- A頁: response 顯示
+    deactivate A頁
+else cookie 檢查無登入
+    servlet -> 登入頁: **轉發** 至 "登入頁"
+    activate 登入頁
+    user <- 登入頁: response 顯示
+    deactivate 登入頁
+end
+
+user -> servlet: 輸入帳號密碼
+alt request parameter 檢查驗證是否可登入
+else 可登入
+    servlet -> A頁: **重定向** 至 "A頁"
+    activate A頁
+    user <- A頁: cookie 寫入登入帳密\nresponse 顯示
+    deactivate A頁
+else 不可登入
+    servlet -> 登入頁: **轉發** 至 "登入頁"
+    activate 登入頁
+    user <- 登入頁: 設定 msg: "登入帳號或密碼錯誤"\nresponse 顯示
+    deactivate 登入頁
+end
+@enduml
+
+@startuml
+
+==CASE 1: 從 A頁 進入\n(/servlet/cookie/login)==
+user -> servlet: request\n進入 "A頁"
+note right: 必須登入
+alt 驗證是否登入
+else cookie 檢查有登入
+    servlet -> A頁: **轉發** 至 "A頁"
+    activate A頁
+    user <- A頁: response 顯示
+    deactivate A頁
+else cookie 檢查無登入
+    servlet -> 登入頁: **重定向** 至 "登入頁"
+    activate 登入頁
+    user <- 登入頁: 訊息 msg: "請先登入"(需使用 cookie)\nresponse 顯示
+    deactivate 登入頁
+end
+||50||
+==CASE 2: 從 登入頁 進入\n(/servlet/cookie)==
+user -> servlet: request\n進入 "登入頁"
+
+alt 驗證是否登入
+else cookie 檢查有登入
+    servlet -> A頁: **重定向** 至 "A頁"
+    activate A頁
+    user <- A頁: response 顯示
+    deactivate A頁
+else cookie 檢查無登入
+    servlet -> 登入頁: **轉發** 至 "登入頁"
+    activate 登入頁
+    user <- 登入頁: response 顯示
+    deactivate 登入頁
+end
+
+user -> servlet: 輸入帳號密碼
+alt request parameter 檢查驗證是否可登入
+else 可登入
+    servlet -> A頁: **重定向** 至 "A頁"
+    activate A頁
+    user <- A頁: cookie 寫入登入帳密\nresponse 顯示
+    deactivate A頁
+else 不可登入
+    servlet -> 登入頁: **轉發** 至 "登入頁"
+    activate 登入頁
+    user <- 登入頁: 設定 msg: "登入帳號或密碼錯誤"\nresponse 顯示
+    deactivate 登入頁
+end
+@enduml
+
+PlantUML version 1.2022.1(Wed Feb 02 02:19:58 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: MS950
+Language: zh
+Country: TW
+--></g></svg>
